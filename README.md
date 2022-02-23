@@ -2,4 +2,4 @@
 
 App for individual warehouse management
 
-Change and fill appsettings_scheme.json
+Change and fill appsettings_scheme.json to appsettings.json

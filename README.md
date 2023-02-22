@@ -1,4 +1,4 @@
-# WMService with React on typescript
+# WMService / React
 
 Small application for simple warehouse management
 

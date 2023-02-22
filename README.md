@@ -1,4 +1,4 @@
-# WMService / React
+# Warehouse management / React
 
 Small application for simple warehouse management
 

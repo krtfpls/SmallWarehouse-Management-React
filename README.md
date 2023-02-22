@@ -1,5 +1,5 @@
-# Magazyn
+# WMService with React
 
-App for simple warehouse management
+Small application for simple warehouse management
 
-Change and fill appsettings_scheme.json to appsettings.json
+Fill and change appsettings_scheme.json to appsettings.json

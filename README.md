@@ -1,7 +1,7 @@
 # Warehouse management / React
 
-Small application for simple warehouse management for my own development, so please bear with it.
-
+Small application for simple warehouse management for my own development.
+It's my first project, so please bear with it.
 Change appsettings_scheme.json to appsettings.json and fill.
 
 example:

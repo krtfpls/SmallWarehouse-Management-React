@@ -37,9 +37,16 @@ Change appsettings_scheme.json to appsettings.json and fill.
 * API: C# with .Net 5.0
   * EntityFramework
   * CQRS Pattern
+  * MediatR
+  * FluentValidator
+  * JWT Token
+  * AutoMapper
   * SQLite on Dev and Postrgres on production
+  
 * FrontEnd React ver. 17 
   * with Typescript
+  * Mobx
+  * Semantic UI
 
 ### Welcome Page:
 ![React-welcomePage](https://user-images.githubusercontent.com/76518461/225254379-f8bfce87-e1e4-4570-a364-5230f2318589.png)

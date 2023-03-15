@@ -23,7 +23,7 @@ Change appsettings_scheme.json to appsettings.json and fill.
 }
 
 
-### Technologies:
+## Technologies:
 * API: C# with .Net 5.0
   * EntityFramework
   * CQRS Pattern

@@ -53,7 +53,7 @@ Change appsettings_scheme.json to appsettings.json and fill.
 ### List of Documents:
 ![react-Document_list](https://user-images.githubusercontent.com/76518461/225255082-1a281404-c653-4048-a20f-19a959746a03.png)
 
-### Preview Document Page:
+### Preview Document:
 ![react-PZ](https://user-images.githubusercontent.com/76518461/225255309-5acd117d-c36c-4aaa-b06c-427af42f7652.png)
 
 ### Adding New Product:

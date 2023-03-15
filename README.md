@@ -54,7 +54,7 @@ Change appsettings_scheme.json to appsettings.json and fill.
 ### Login Page:
 ![react-LoginPage](https://user-images.githubusercontent.com/76518461/225254777-815603af-f705-4394-b606-6f4098007418.png)
 
-### List of Produscts:
+### List of Products:
 ![react-list](https://user-images.githubusercontent.com/76518461/225254969-651e431e-05d8-4338-85d6-a170837ea916.png)
 
 ### List of Documents:

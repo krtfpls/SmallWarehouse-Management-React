@@ -43,7 +43,7 @@ Change appsettings_scheme.json to appsettings.json and fill.
   * AutoMapper
   * SQLite on Dev and Postrgres on production
   
-* FrontEnd React ver. 17 
+* FrontEnd: React ver. 17 
   * with Typescript
   * Mobx
   * Semantic UI
